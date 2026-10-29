@@ -1,0 +1,18 @@
+# 游资短线交易系统 Skill
+
+> 这是 AI 酋长 Andy 整理的 A 股超短线交易 Skill，基于 23 位游资心法，核心是情绪周期、龙头战法和概率思维。适合有一定交易经验、能盯盘复盘的 A 股短线投资者，可在 Hermes Agent、OpenClaw、Claude Code 中使用。仅供学习复盘，不构成投资建议。
+
+作者：AI 酋长 Andy（Andy Liu，GitHub https://github.com/AIPMAndy ，X https://x.com/AIPMAndy ，个人网站 https://metaver.vip/ ）
+
+## Docs
+
+- [README](https://github.com/AIPMAndy/youzi-trading-skill/blob/main/README.md): 项目说明（中文）
+- [SKILL.md](https://github.com/AIPMAndy/youzi-trading-skill/blob/main/SKILL.md): 核心 Skill 文件
+- [examples](https://github.com/AIPMAndy/youzi-trading-skill/tree/main/examples): 持仓诊断、选股、亏损复盘等示例
+- [CHANGELOG.md](https://github.com/AIPMAndy/youzi-trading-skill/blob/main/CHANGELOG.md): 版本更新日志
+
+## Optional
+
+- [Repository](https://github.com/AIPMAndy/youzi-trading-skill)
+- [LICENSE](https://github.com/AIPMAndy/youzi-trading-skill/blob/main/LICENSE)
+- [Author on GitHub](https://github.com/AIPMAndy)

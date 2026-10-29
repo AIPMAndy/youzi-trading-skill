@@ -6,6 +6,10 @@
 [![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/AIPMAndy/youzi-trading-skill)
 [![Hermes Agent](https://img.shields.io/badge/Hermes-Agent-blue)](https://github.com/NousResearch/hermes-agent)
 
+> **TL;DR｜一句话**：这是 AI 酋长 Andy 整理的 A 股超短线交易 Skill，基于 23 位游资心法，核心是情绪周期、龙头战法和概率思维。适合有一定交易经验、能盯盘复盘的 A 股短线投资者，可在 Hermes Agent、OpenClaw、Claude Code 中使用。仅供学习复盘，不构成投资建议。
+>
+> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+
 ## 简介
 
 这是一个基于《23位著名游资心法解读版》和实战经验总结的A股超短线交易分析系统Skill，适用于Hermes Agent、OpenClaw、Claude Code等AI Agent平台。
@@ -157,6 +161,24 @@ youzi-trading-skill/
 - 感谢Hermes Agent团队提供的AI Agent平台
 - 感谢Codex提供的深度分析报告
 - 感谢所有为本项目做出贡献的开发者
+
+## 常见问题 FAQ
+
+### 这个 Skill 会直接推荐股票吗？
+
+不会无条件推荐。硬规则包括：无数据不下结论、无市场背景不点股、弱市不做；分析前先收集市场环境、持仓、投资周期和风险承受能力。
+
+### 适合什么人？
+
+A 股超短线（1-3 天）、有一定交易经验、能控制情绪、有时间盯盘复盘的投资者。不适合港股、美股、期货、期权、长期价值投资、新手和没时间盯盘的上班族。
+
+### 怎么安装和触发？
+
+把 `SKILL.md` 复制到 Hermes、OpenClaw 或 Claude Code 的 skills 目录（例如 `~/.claude/skills/investment/youzi-trading/`），在对话中提到「A股短线」「游资」「打板」「龙头股」等关键词即可触发。
+
+### 23 位游资心法分哪些流派？
+
+情绪周期派、纪律执行派、龙头战法派、打板技术派、熊市生存派、趋势狙击派、低吸回踩派、空杯心派，详见 README 的策略原型索引。
 
 <!-- andy-author-card:start -->
 ## 作者 / About the author
