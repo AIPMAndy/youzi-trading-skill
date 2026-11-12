@@ -8,7 +8,7 @@
 
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 整理的 A 股超短线交易 Skill，基于 23 位游资心法，核心是情绪周期、龙头战法和概率思维。适合有一定交易经验、能盯盘复盘的 A 股短线投资者，可在 Hermes Agent、OpenClaw、Claude Code 中使用。仅供学习复盘，不构成投资建议。
 >
-> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+> 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
 
 ## 简介
 
@@ -151,7 +151,7 @@ youzi-trading-skill/
 
 ## 作者
 
-**Andy** - AI产品专家，前腾讯/百度AI产品专家，大模型独角兽VP
+**AI酋长Andy（Andy Liu）** - 流量 AI 联合创始人、星觉 AI 创始人
 - 微信：AI PMAndy
 - GitHub: [@AIPMAndy](https://github.com/AIPMAndy)
 
@@ -183,7 +183,7 @@ A 股超短线（1-3 天）、有一定交易经验、能控制情绪、有时�
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 微信 `AIPMAndy`（备注「youzi-trading-skill」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 
@@ -204,6 +204,18 @@ A 股超短线（1-3 天）、有一定交易经验、能控制情绪、有时�
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ---
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**A 股超短线游资心法 Skill：情绪周期、龙头战法、复盘模板，适配 Claude Code / Hermes / OpenClaw，仅供学习。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[GitHub 仓库](https://github.com/AIPMAndy/youzi-trading-skill)
+- 联系：微信 `AIPMAndy`（备注「youzi-trading-skill」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
 
 ## 版本历史
 
